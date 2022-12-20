@@ -1,0 +1,3 @@
+[submodule "cachito-test-repo"]
+	path = cachito-test-repo
+	url = https://github.com/taylormadore/cachito-test-repo.git
